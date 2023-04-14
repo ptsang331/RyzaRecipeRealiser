@@ -1,0 +1,46 @@
+(Water)             https://game-icons.net/1x1/delapouite/full-wood-bucket-handle.html
+(Plant)             https://game-icons.net/1x1/lorc/linden-leaf.html
+(Uni)               https://game-icons.net/1x1/skoll/spiked-ball.html
+(Flower)            https://game-icons.net/1x1/delapouite/flower-emblem.html
+(Medicinal)         https://game-icons.net/1x1/lorc/transparent-tubes.html
+(Poison)            https://game-icons.net/1x1/lorc/poison-bottle.html
+(Elixir)            https://game-icons.net/1x1/delapouite/holy-water.html
+(Sand)              https://game-icons.net/1x1/lorc/powder.html
+(Stone)             https://game-icons.net/1x1/lorc/stone-block.html
+(Ore)               https://game-icons.net/1x1/delapouite/stone-pile.html
+(Gemstone)          https://game-icons.net/1x1/faithtoken/minerals.html
+(Gunpowder)         https://game-icons.net/1x1/lorc/fission.html
+(Fuel)              https://game-icons.net/1x1/delapouite/pyre.html
+(Food)              https://game-icons.net/1x1/lorc/sliced-bread.html
+(Fruit)             https://game-icons.net/1x1/lorc/shiny-apple.html
+(Beehive)           https://game-icons.net/1x1/lorc/honeycomb.html
+(Mushroom)          https://game-icons.net/1x1/lorc/mushroom.html
+(Seafood)           https://game-icons.net/1x1/various-artists/salmon.html
+(Bug)               https://game-icons.net/1x1/delapouite/ladybug.html
+(Thread)            https://game-icons.net/1x1/delapouite/wool.html
+(Lumber)            https://game-icons.net/1x1/delapouite/log.html
+(Gas)               https://game-icons.net/1x1/delapouite/steam.html
+(Puniball)          https://game-icons.net/1x1/delapouite/mineral-pearls.html
+(Animal Product)    https://game-icons.net/1x1/delapouite/animal-hide.html
+(Dragon)            https://game-icons.net/1x1/delapouite/spiked-dragon-head.html
+(Mystery)           https://game-icons.net/1x1/lorc/whirlwind.html
+(Supplement)        https://game-icons.net/1x1/lorc/potion-ball.html
+(General Goods)     https://game-icons.net/1x1/caro-asercion/paper-bag-folded.html
+(Metal)             https://game-icons.net/1x1/delapouite/metal-plate.html
+(Jewel)             https://game-icons.net/1x1/lorc/cut-diamond.html
+(Spice)             https://game-icons.net/1x1/delapouite/herbs-bundle.html
+(Seed)              https://game-icons.net/1x1/delapouite/plant-seed.html
+(Food2)??           https://game-icons.net/1x1/lorc/wheat.html   
+(Medicine)          https://game-icons.net/1x1/lorc/heart-bottle.html
+(Bomb)              https://game-icons.net/1x1/lorc/rolling-bomb.html
+(Magic Tool)        https://game-icons.net/1x1/lorc/wizard-staff.html
+(Ingot)             https://game-icons.net/1x1/lorc/metal-bar.html
+(Cloth)             https://game-icons.net/1x1/delapouite/rolled-cloth.html
+(Weapon)            https://game-icons.net/1x1/lorc/piercing-sword.html
+(Armor)             https://game-icons.net/1x1/lorc/lamellar.html
+(Accessory)         https://game-icons.net/1x1/skoll/big-diamond-ring.html
+(Gathering)         https://game-icons.net/1x1/delapouite/hatchet.html
+(Furniture)         https://game-icons.net/1x1/delapouite/barrel.html
+(Important)         https://game-icons.net/1x1/lorc/key.html
+
+paper texture       https://indieground.net/product/vintage-paper-textures/
